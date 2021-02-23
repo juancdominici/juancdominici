@@ -5,7 +5,7 @@
 - 🎲 Fun fact: I love D&D.
 
 ```
-contactMe = () => {
-    you.emailMe('Your message!');
+const contactMe = (message) => {
+    message.emailTo("juancdominici@gmail.com")
 }
 ```
