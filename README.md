@@ -3,7 +3,7 @@
     <br/>
     <p align="center">
         <br/>Hello World! I'm <a href="https://www.linkedin.com/in/juancdominici/">Juan Cruz<a/>.
-        <br/>I’m a programming student, FrontEnd Developer and, on paper, a gastronomic.
+        <br/>I’m a programming student, Full-stack Developer and, on paper, a gastronomic.
         <br/>✨
         <br/>
         <br/>
@@ -16,6 +16,7 @@
             #<a href="https://github.com/topics/typescript">Typescript<a/>
             #<a href="https://github.com/topics/git">Git<a/> 
             #<a href="https://github.com/topics/react">React<a/> 
+            #<a href="https://github.com/topics/vue">Vue<a/> 
             #<a href="https://github.com/topics/node">Node.js<a/>
             #<a href="https://github.com/topics/c-sharp">C#<a/>
         <br/>
