@@ -3,7 +3,7 @@
     <br/>
     <p align="center">
         <br/>Hello World! I'm <a href="https://www.linkedin.com/in/juancdominici/">Juan Cruz<a/>.
-        <br/>I’m a programming student, Full-stack Developer and, on paper, a gastronomic.
+        <br/>I’m a software developer and, on paper, a gastronomic.
         <br/>✨
         <br/>
         <br/>
