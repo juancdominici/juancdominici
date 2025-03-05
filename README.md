@@ -22,7 +22,7 @@
         <p align="center">
             <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
             <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-            <img src="https://img.shields.io/badge/-React%20Native%20%2F%20Expo-000000?style=flat&logo=expo&logoColor=white" alt="React Native / Expo">
+            <img src="https://img.shields.io/badge/-Flutter-67b7f7?style=flat&logo=flutter&logoColor=white" alt="Flutter">
             <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue">
             <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
             <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
